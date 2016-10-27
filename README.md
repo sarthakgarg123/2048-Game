@@ -8,3 +8,5 @@ U -> Up
 D -> Down
 
 If a player reach at 2048 number, then he wins.
+
+Linux
